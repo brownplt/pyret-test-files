@@ -1,3 +1,3 @@
 provide *
 
-name = "nested-in-lib.arr"
+name = "nested-in-lib"
